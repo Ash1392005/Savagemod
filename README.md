@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://wallpapercave.com/uwp/uwp1997564.jpeg" alt="chitoge" border="0"></a>
+<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://telegra.ph/file/ea9a2a14d5e1baf477c8e.png" alt="chitoge" border="0"></a>
 
-# **BEYOND: A WhatsApp BOT WITH RICH BOTTO FEATURES**
+# **Boyka: A WhatsApp BOT WITH RICH BOTTO FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
