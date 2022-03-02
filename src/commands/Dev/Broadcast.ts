@@ -29,7 +29,7 @@ export default class Command extends BaseCommand {
       return void (await M.reply(`Please provide the Broadcast Message.`));
     const term = joined.trim();
     const images = [
-      "https://telegra.ph/file/81fb67e5a265c0897abf3.jpg",
+      "https://telegra.ph/file/42bf8c63d4d995b129468.jpg",
       "https://telegra.ph/file/8969d16e5a3b2c0449558.jpg",
     ];
     const selected = images[Math.floor(Math.random() * images.length)];
